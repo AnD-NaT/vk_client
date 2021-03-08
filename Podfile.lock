@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.4.1)
+  - VK-ios-sdk (1.6.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - VK-ios-sdk
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - VK-ios-sdk
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  VK-ios-sdk: 5bcf00a2014a7323f98db9328b603d4f96635caa
+
+PODFILE CHECKSUM: 680596f5cfa62a946d1238a32f40cab35478cfff
+
+COCOAPODS: 1.10.1
